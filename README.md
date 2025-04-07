@@ -19,7 +19,8 @@ The main objectives of this project were:
 
 ## 📊 Key Questions Explored
 
-- What age group or gender is most active in fan engagement?
+- What age group or gender is most active in fan engagement? (For that have created slicer to filter)
 - Which sports events or campaigns had the highest fan response?
-- Are there seasonal or time-based trends in fan activity?
-- Which platforms (e.g., voting, sharing, commenting) are most used by fans
+- Number of social Media interactions by fans
+- Comapring the interactions of Social Media VS Attendance of fans at game
+- Which team had highest purchasing of merchandise
